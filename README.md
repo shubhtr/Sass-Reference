@@ -112,6 +112,8 @@ Compiled CSS
 
 ## Nesting
 
+CSS does support logical nesting, but the code blocks themselves are not nested. Sass allows the nested code to be inserted within each other.
+
 SCSS
 
     table.h1 {
