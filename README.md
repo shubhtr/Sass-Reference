@@ -1,4 +1,7 @@
 # SASS Reference
+## by Shubhrendu Tripathi
+
+<br><br>
 
 ## Introduction
 
